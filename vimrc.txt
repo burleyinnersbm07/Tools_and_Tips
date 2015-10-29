@@ -1,0 +1,18 @@
+" syntax highlighting
+syntax on
+" different colorscheme
+colorscheme slate
+" display line numbers
+set number
+" wrap lines
+set wrap
+" show matching characters ({[]})
+set showmatch
+" show ruler
+set ruler
+" no sound
+set noerrorbells
+" tabs
+set shiftwidth=4
+set tabstop=4
+set smarttab
